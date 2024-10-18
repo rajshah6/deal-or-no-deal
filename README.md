@@ -1,4 +1,4 @@
-# DealOrNoDeal
+# deal-or-no-deal
 
 ## 🛠️ Installation
 Refer to [Tkinter Documentation](https://docs.python.org/3/library/tk.html)
